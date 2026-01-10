@@ -1,33 +1,45 @@
-# Projeto SQL Acadêmico
+# 📊 Projeto SQL – Fundamentos e Consultas
 
-Este repositório contém um conjunto de scripts SQL desenvolvidos
-para fins acadêmicos, abordando desde a criação de tabelas até
-consultas avançadas e relatórios.
+Este repositório contém scripts SQL desenvolvidos para fins **acadêmicos e de prática**, abordando desde a criação de tabelas até consultas avançadas e relatórios consolidados.
 
-## Estrutura do projeto
+---
 
-- **01_criacao_tabelas**  
-  Criação das tabelas do banco de dados.
+## 🗂️ Estrutura do Projeto
 
-- **02_insercao_dados**  
-  Inserção de dados nas tabelas.
+📁 **01_criacao_tabelas**  
+> Scripts de criação das tabelas do banco de dados.
 
-- **03_consultas_basicas**  
-  Consultas simples utilizando SELECT, WHERE, LIKE, IN, BETWEEN e LIMIT.
+📁 **02_insercao_dados**  
+> Inserção de dados nas tabelas.
 
-- **04_agregacoes_group_by**  
-  Consultas com funções de agregação (SUM, AVG, COUNT, MAX, MIN),
-  GROUP BY e HAVING.
+📁 **03_consultas_basicas**  
+> Consultas simples utilizando `SELECT`, `WHERE`, `LIKE`, `IN`, `BETWEEN` e `LIMIT`.
 
-- **05_joins_subconsultas_views**  
-  Consultas utilizando JOINs, subconsultas e views.
+📁 **04_agregacoes_group_by**  
+> Consultas com funções de agregação (`SUM`, `AVG`, `COUNT`, `MAX`, `MIN`),  
+> uso de `GROUP BY` e `HAVING`.
 
-- **06_relatorios**  
-  Relatórios consolidados com regras de negócio aplicadas.
+📁 **05_joins_subconsultas_views**  
+> Consultas utilizando `JOINs`, subconsultas e criação de `VIEWs`.
 
-## Tecnologias
-- SQL (MySQL)
+📁 **06_relatorios**  
+> Relatórios consolidados aplicando regras de negócio.
 
-## Objetivo
-Praticar e demonstrar conhecimentos fundamentais e intermediários
-em SQL, com foco em organização, clareza e boas práticas.
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- 🗄️ **SQL (MySQL)**
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Praticar e demonstrar conhecimentos **fundamentais e intermediários em SQL**,  
+com foco em:
+- organização 📁  
+- clareza ✨  
+- boas práticas ✅  
+
+---
+
