@@ -41,17 +41,16 @@ O projeto foi estruturado para simular cenários reais de análise e consulta em
 
 ## 🛠️ Tecnologias Utilizadas
 
-- 🗄️ **MySQL**
-- 🧩 **SQL padrão**
+- 🗄️ **MySQL Workbench**
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
 Demonstrar capacidade de:
-- estruturar e consultar bancos de dados relacionais  
-- aplicar boas práticas de organização de código SQL  
-- desenvolver consultas analíticas e relatórios  
-- trabalhar com bases de dados pré-existentes  
+- Estruturar e consultar bancos de dados relacionais  
+- Aplicar boas práticas de organização de código SQL  
+- Desenvolver consultas analíticas e relatórios  
+- Trabalhar com bases de dados pré-existentes  
 
 ---
