@@ -1,4 +1,4 @@
-# 📊 SQL – Fundamentos e Consultas Analíticas
+#  SQL – Fundamentos e Consultas Analíticas
 
 Este repositório reúne **scripts SQL organizados e documentados** com foco em **fundamentos, consultas intermediárias e construção de relatórios analíticos**, simulando cenários reais de análise em bancos de dados relacionais.
 
@@ -6,7 +6,7 @@ O projeto foi estruturado para demonstrar não apenas consultas isoladas, mas ta
 
 ---
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Demonstrar capacidade de:
 
@@ -18,7 +18,7 @@ Demonstrar capacidade de:
 
 ---
 
-## 🗂️ Estrutura do Projeto
+##  Estrutura do Projeto
 
 - **01_criacao_tabelas**  
   Scripts responsáveis pela definição da estrutura do banco de dados.
@@ -42,11 +42,11 @@ Demonstrar capacidade de:
 
 ---
 
-## 📈 Destaque: Relatórios Analíticos
+##  Destaque: Relatórios Analíticos
 
 A pasta **06_relatorios** concentra os principais artefatos do projeto, simulando relatórios utilizados em contextos reais de análise de dados.
 
-### 🧾 Relatório 1 – Validação de Limite de Compra por Cliente
+###  Relatório 1 – Validação de Limite de Compra por Cliente
 
 **Descrição:**
 
@@ -61,11 +61,11 @@ A pasta **06_relatorios** concentra os principais artefatos do projeto, simuland
 - Aplicação de regras de negócio com `CASE`  
 - Classificação de dados para auditoria e controle comercial  
 
-📌 *Simula um cenário real de validação de políticas comerciais e controle de risco.*
+ *Simula um cenário real de validação de políticas comerciais e controle de risco.*
 
 ---
 
-### 🧾 Relatório 2 – Vendas por Sabor (Ano de 2016)
+###  Relatório 2 – Vendas por Sabor (Ano de 2016)
 
 **Descrição:**
 
@@ -81,11 +81,11 @@ A pasta **06_relatorios** concentra os principais artefatos do projeto, simuland
 - Subconsultas para separação de totais e detalhamento  
 - Organização do resultado para análise comparativa  
 
-📌 *Simula um relatório de performance de produtos, comum em áreas comerciais e de BI.*
+ *Simula um relatório de performance de produtos, comum em áreas comerciais e de BI.*
 
 ---
 
-## 📌 Observações sobre os Dados
+##  Observações sobre os Dados
 
 - Parte das tabelas foi criada manualmente via scripts SQL  
 - Outras tabelas foram importadas a partir de fontes externas  
@@ -94,18 +94,18 @@ A pasta **06_relatorios** concentra os principais artefatos do projeto, simuland
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
-- 🗄️ **MySQL**
-- 💻 **MySQL Workbench**
-- 📄 SQL padrão ANSI (com extensões específicas do MySQL)
+-  **MySQL**
+-  **MySQL Workbench**
+-  SQL padrão ANSI (com extensões específicas do MySQL)
 
 ---
 
-## 🚀 Considerações Finais
+##  Considerações Finais
 
 Este projeto tem caráter **educacional e demonstrativo**, servindo como base para:
 
 - Estudos em SQL  
-- Portfólio inicial em **Análise de Dados / Engenharia de Dados**  
+- Portfólio inicial em **Engenharia de Dados**  
 
